@@ -1,3 +1,10 @@
+<p align="center">
+  <img width=140px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/52fdd2ba-079c-4202-b812-bc5d3b0f67fd" />
+</p>
+
+
+<hr>
+
 # Clojure_Lang \_\_macOS기준
 
 tutorial 참고 자료
