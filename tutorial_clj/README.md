@@ -9,6 +9,10 @@ FIXME: description
 - Get Started with Clojure in VS Code | CalvaTV
   - https://youtu.be/O6GrXXhCzCc?si=tYRQ-mHzeoaVnJK0
 
+```
+문서 hover 보기  
+Ctl+K Ctl+I
+```
 
 # Tutorial 2
 
