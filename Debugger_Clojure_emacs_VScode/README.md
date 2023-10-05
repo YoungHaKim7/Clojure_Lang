@@ -21,6 +21,15 @@ A collection of nREPL middleware to enhance Clojure editors with common function
   - https://docs.cider.mx/cider-nrepl/ 
 
 
+# VS Code
+
+- VS Code(Debugging)
+  - Calva: Fire up the Getting Stated REPL
+  - Calva: Evaluate Top Level Form (defun)
+
+- Get Started with Clojure in VS Code | CalvaTV
+  - https://youtu.be/O6GrXXhCzCc?si=tYRQ-mHzeoaVnJK0
+
 # Debugger
 
 https://calva.io/debugger/
