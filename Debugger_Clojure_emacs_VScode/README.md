@@ -33,3 +33,7 @@ A collection of nREPL middleware to enhance Clojure editors with common function
 # Debugger
 
 https://calva.io/debugger/
+
+# nrepl
+
+https://nrepl.org/nrepl/index.html
