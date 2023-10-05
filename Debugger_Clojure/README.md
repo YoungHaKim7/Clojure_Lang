@@ -16,6 +16,11 @@ C-c C-d
   - https://youtu.be/aYA4AAjLfT0?si=Qe42oxhe2KZJW2VK
 
 
+- https://github.com/clojure-emacs/cider-nrepl
+A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc.   
+  - https://docs.cider.mx/cider-nrepl/ 
+
+
 # Debugger
 
 https://calva.io/debugger/
