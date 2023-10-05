@@ -4,7 +4,7 @@
 (defn greet
   "I'll greet you"
   [s]
-  (str "Hello " s "!!!"));
+  (str "Hello " s "!!!"))
 
 
 (defn -main
